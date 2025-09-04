@@ -23,14 +23,28 @@
     },
     {
       "version": "0.0.2",
-      "date": "2025-08-21",
+      "date": "2025-09-04",
       "items": [
         {
           "type": "bugFix",
-          "icon": "bolt.fill",
-          "iconColor": "#FF9500",
-          "title": "Performance fixes",
-          "description": "Improved loading speed for large product lists."
+          "icon": "arrow.up.arrow.down",
+          "iconColor": "#FF3B30",
+          "title": "Product & group ordering",
+          "description": "Fixed issues with product and group ordering."
+        },
+        {
+          "type": "bugFix",
+          "icon": "arrow.clockwise",
+          "iconColor": "#FF3B30",
+          "title": "UI refresh after edits",
+          "description": "Fixed the issue where the UI didn’t update after editing products and groups."
+        },
+        {
+          "type": "feature",
+          "icon": "clock",
+          "iconColor": "#007AFF",
+          "title": "Analog clock on sign-in",
+          "description": "Added an analog clock to the sign-in screen."
         }
       ]
     }

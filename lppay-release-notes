@@ -45,6 +45,13 @@
           "iconColor": "#007AFF",
           "title": "Analog clock on sign-in",
           "description": "Added an analog clock to the sign-in screen."
+        },
+        {
+          "type": "bugFix",
+          "icon": "globe",
+          "iconColor": "#34C759",
+          "title": "Translation improvements",
+          "description": "Improved the accuracy and quality of language translations."
         }
       ]
     }

@@ -51,27 +51,27 @@
           "iconColor": "#34C759",
           "title": "Translation improvements",
           "description": "Improved the accuracy and quality of language translations."
+        }
+      ]
+    },
+    {
+      "version": "0.0.1",
+      "date": "2025-09-01",
+      "items": [
+        {
+          "type": "feature",
+          "icon": "star.fill",
+          "iconColor": "#007AFF",
+          "iconBackgroundColor": "#CCE4FF",
+          "title": "German TSE integration",
+          "description": "Added full support for SIGN-DE fiscalization."
         },
         {
-          "version": "0.0.1",
-          "date": "2025-09-01",
-          "items": [
-            {
-              "type": "feature",
-              "icon": "star.fill",
-              "iconColor": "#007AFF",
-              "iconBackgroundColor": "#CCE4FF",
-              "title": "German TSE integration",
-              "description": "Added full support for SIGN-DE fiscalization."
-            },
-            {
-              "type": "bugFix",
-              "icon": "wrench.fill",
-              "iconColor": "#FF3B30",
-              "title": "TicketBAI signature validation",
-              "description": "Fixed chaining error when validating signed XML."
-            }
-          ]
+          "type": "bugFix",
+          "icon": "wrench.fill",
+          "iconColor": "#FF3B30",
+          "title": "TicketBAI signature validation",
+          "description": "Fixed chaining error when validating signed XML."
         }
       ]
     }

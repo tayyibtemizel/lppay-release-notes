@@ -1,6 +1,42 @@
 {
   "releases": [
     {
+      "version": "0.0.4",
+      "date": "2025-09-10",
+      "items": [
+        {
+          "type": "improved",
+          "icon": "ipad",
+          "iconColor": "#34C759",
+          "title": "iPad mini UI",
+          "description": "Improved the user interface for iPad mini devices."
+        },
+        {
+          "type": "improved",
+          "icon": "lock.circle",
+          "iconColor": "#34C759",
+          "title": "Login screen enhancements",
+          "description": "Improved the PIN code view and added an analog clock to the login screen.",
+          "gifURL": "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature1.gif"
+        },
+        {
+          "type": "feature",
+          "icon": "percent",
+          "iconColor": "#007AFF",
+          "title": "Tax settings redesign",
+          "description": "Redesigned the tax settings screen, now accessible as a shortcut from the product creation screen.",
+          "gifURL": "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature1.gif"
+        },
+        {
+          "type": "feature",
+          "icon": "sparkles",
+          "iconColor": "#007AFF",
+          "title": "Liquid Glass integration",
+          "description": "Integrated the new Liquid Glass effect into several parts of the app."
+        }
+      ]
+    },
+    {
       "version": "0.0.3",
       "date": "2025-09-05",
       "items": [

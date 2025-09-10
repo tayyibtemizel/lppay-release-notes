@@ -9,7 +9,8 @@
           "icon": "ipad",
           "iconColor": "#34C759",
           "title": "iPad mini UI",
-          "description": "Improved the user interface for iPad mini devices."
+          "description": "Improved the user interface for iPad mini devices.",
+          "gifURL": null
         },
         {
           "type": "improved",
@@ -32,7 +33,8 @@
           "icon": "sparkles",
           "iconColor": "#007AFF",
           "title": "Liquid Glass integration",
-          "description": "Integrated the new Liquid Glass effect into several parts of the app."
+          "description": "Integrated the new Liquid Glass effect into several parts of the app.",
+          "gifURL": null
         }
       ]
     },
@@ -45,14 +47,16 @@
           "icon": "circle.grid.3x3",
           "iconColor": "#5856D6",
           "title": "PIN code screen",
-          "description": "Enhanced the design and usability of the PIN code screen."
+          "description": "Enhanced the design and usability of the PIN code screen.",
+          "gifURL": null
         },
         {
           "type": "bugFix",
           "icon": "person.badge.key",
           "iconColor": "#FF3B30",
           "title": "User role name input",
-          "description": "Fixed the issue preventing letters from being entered in the name field when adding a user role."
+          "description": "Fixed the issue preventing letters from being entered in the name field when adding a user role.",
+          "gifURL": null
         }
       ]
     },
@@ -65,28 +69,32 @@
           "icon": "arrow.up.arrow.down",
           "iconColor": "#FF3B30",
           "title": "Product & group ordering",
-          "description": "Fixed issues with product and group ordering."
+          "description": "Fixed issues with product and group ordering.",
+          "gifURL": null
         },
         {
           "type": "bugFix",
           "icon": "arrow.clockwise",
           "iconColor": "#FF3B30",
           "title": "UI refresh after edits",
-          "description": "Fixed the issue where the UI didn’t update after editing products and groups."
+          "description": "Fixed the issue where the UI didn’t update after editing products and groups.",
+          "gifURL": null
         },
         {
           "type": "feature",
           "icon": "clock",
           "iconColor": "#007AFF",
           "title": "Analog clock on sign-in",
-          "description": "Added an analog clock to the sign-in screen."
+          "description": "Added an analog clock to the sign-in screen.",
+          "gifURL": null
         },
         {
           "type": "bugFix",
           "icon": "globe",
           "iconColor": "#34C759",
           "title": "Translation improvements",
-          "description": "Improved the accuracy and quality of language translations."
+          "description": "Improved the accuracy and quality of language translations.",
+          "gifURL": null
         }
       ]
     },
@@ -100,14 +108,16 @@
           "iconColor": "#007AFF",
           "iconBackgroundColor": "#CCE4FF",
           "title": "German TSE integration",
-          "description": "Added full support for SIGN-DE fiscalization."
+          "description": "Added full support for SIGN-DE fiscalization.",
+          "gifURL": null
         },
         {
           "type": "bugFix",
           "icon": "wrench.fill",
           "iconColor": "#FF3B30",
           "title": "TicketBAI signature validation",
-          "description": "Fixed chaining error when validating signed XML."
+          "description": "Fixed chaining error when validating signed XML.",
+          "gifURL": null
         }
       ]
     }

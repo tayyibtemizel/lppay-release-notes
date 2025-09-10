@@ -5,7 +5,7 @@
       "date": "2025-09-10",
       "items": [
         {
-          "type": "improved",
+          "type": "feature",
           "icon": "ipad",
           "iconColor": "#34C759",
           "title": "iPad mini UI",
@@ -13,7 +13,7 @@
           "gifURL": null
         },
         {
-          "type": "improved",
+          "type": "feature",
           "icon": "lock.circle",
           "iconColor": "#34C759",
           "title": "Login screen enhancements",

@@ -1,6 +1,52 @@
 {
   "releases": [
     {
+      "version": "1.0.13",
+      "date": "2026-08-17",
+      "items": [
+        {
+          "type": "feature",
+          "icon": "banknote.fill",
+          "iconColor": "#34C759",
+          "title": "Tips",
+          "description": "Add a tip by amount, target total, or a quick percentage. Tips show on the receipt and the reports, and card tips are taken on the ZVT terminal.",
+          "gifURL": null
+        },
+        {
+          "type": "feature",
+          "icon": "giftcard.fill",
+          "iconColor": "#AF52DE",
+          "title": "Gift vouchers",
+          "description": "Sell vouchers on the sales screen and redeem them at payment by scanning the QR on the card. Partial redemptions print the remaining balance. Germany only.",
+          "gifURL": null
+        },
+        {
+          "type": "feature",
+          "icon": "arrow.triangle.2.circlepath",
+          "iconColor": "#30B0C7",
+          "title": "Bottle deposits",
+          "description": "Attach deposit types to products so Pfand is charged automatically, or add one with the stepper. The Z report lists Pfand and Leergut separately.",
+          "gifURL": null
+        },
+        {
+          "type": "feature",
+          "icon": "dollarsign.circle.fill",
+          "iconColor": "#007AFF",
+          "title": "Foreign currency cash",
+          "description": "Accept cash in a foreign currency at your own rate. The payment screen converts as you type, and the receipt records the currency and the rate used.",
+          "gifURL": null
+        },
+        {
+          "type": "feature",
+          "icon": "bell.badge.fill",
+          "iconColor": "#5856D6",
+          "title": "Guest pager numbers",
+          "description": "Hand a guest a call number at the start of the sale. It prints on the receipt and the kitchen ticket, and the queue board shows who is still waiting.",
+          "gifURL": null
+        }
+      ]
+    },
+    {
       "version": "0.0.4",
       "date": "2025-09-10",
       "items": [

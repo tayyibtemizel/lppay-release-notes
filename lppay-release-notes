@@ -91,7 +91,7 @@
         {
           "type": "bugFix",
           "icon": "globe",
-          "iconColor": "#34C759",
+          "iconColor": "#FF3B30",
           "title": "Translation improvements",
           "description": "Improved the accuracy and quality of language translations.",
           "gifURL": null

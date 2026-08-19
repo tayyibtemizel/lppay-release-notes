@@ -1,169 +1,169 @@
 {
-  "releases": [
+  "releases" : [
     {
-      "version": "1.0.13",
-      "date": "2026-08-17",
-      "items": [
+      "version" : "1.0.13",
+      "date" : "2026-08-17",
+      "items" : [
         {
-          "type": "feature",
-          "icon": "banknote.fill",
-          "iconColor": "#34C759",
-          "title": "Tips",
-          "description": "Add a tip by amount, target total, or a quick percentage. Tips show on the receipt and the reports, and card tips are taken on the ZVT terminal.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "banknote.fill",
+          "iconColor" : "#34C759",
+          "title" : "Tips",
+          "description" : "Add a tip by amount, target total, or a quick percentage. Tips show on the receipt and the reports, and card tips are taken on the ZVT terminal.",
+          "gifURL" : null
         },
         {
-          "type": "feature",
-          "icon": "giftcard.fill",
-          "iconColor": "#AF52DE",
-          "title": "Gift vouchers",
-          "description": "Sell vouchers on the sales screen and redeem them at payment by scanning the QR on the card. Partial redemptions print the remaining balance. Germany only.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "giftcard.fill",
+          "iconColor" : "#AF52DE",
+          "title" : "Gift vouchers",
+          "description" : "Sell vouchers on the sales screen and redeem them at payment by scanning the QR on the card. Partial redemptions print the remaining balance. Germany only.",
+          "gifURL" : null
         },
         {
-          "type": "feature",
-          "icon": "arrow.triangle.2.circlepath",
-          "iconColor": "#30B0C7",
-          "title": "Bottle deposits",
-          "description": "Attach deposit types to products so Pfand is charged automatically, or add one with the stepper. The Z report lists Pfand and Leergut separately.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "arrow.triangle.2.circlepath",
+          "iconColor" : "#30B0C7",
+          "title" : "Bottle deposits",
+          "description" : "Attach deposit types to products so Pfand is charged automatically, or add one with the stepper. The Z report lists Pfand and Leergut separately.",
+          "gifURL" : null
         },
         {
-          "type": "feature",
-          "icon": "dollarsign.circle.fill",
-          "iconColor": "#007AFF",
-          "title": "Foreign currency cash",
-          "description": "Accept cash in a foreign currency at your own rate. The payment screen converts as you type, and the receipt records the currency and the rate used.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "dollarsign.circle.fill",
+          "iconColor" : "#007AFF",
+          "title" : "Foreign currency cash",
+          "description" : "Accept cash in a foreign currency at your own rate. The payment screen converts as you type and works out the change in your base currency.",
+          "gifURL" : null
         },
         {
-          "type": "feature",
-          "icon": "bell.badge.fill",
-          "iconColor": "#5856D6",
-          "title": "Guest pager numbers",
-          "description": "Hand a guest a call number at the start of the sale. It prints on the receipt and the kitchen ticket, and the queue board shows who is still waiting.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "bell.badge.fill",
+          "iconColor" : "#5856D6",
+          "title" : "Pager numbers",
+          "description" : "Assign a pager number when the sale starts. It prints on the receipt and the kitchen ticket, and the queue board shows who is still waiting.",
+          "gifURL" : null
         }
       ]
     },
     {
-      "version": "0.0.4",
-      "date": "2025-09-10",
-      "items": [
+      "version" : "0.0.4",
+      "date" : "2025-09-10",
+      "items" : [
         {
-          "type": "feature",
-          "icon": "ipad",
-          "iconColor": "#34C759",
-          "title": "iPad mini UI",
-          "description": "Improved the user interface for iPad mini devices.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "ipad",
+          "iconColor" : "#34C759",
+          "title" : "iPad mini UI",
+          "description" : "Improved the user interface for iPad mini devices.",
+          "gifURL" : null
         },
         {
-          "type": "feature",
-          "icon": "lock.circle",
-          "iconColor": "#34C759",
-          "title": "Login screen enhancements",
-          "description": "Improved the PIN code view and added an analog clock to the login screen.",
-          "gifURL": "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature2.png"
+          "type" : "feature",
+          "icon" : "lock.circle",
+          "iconColor" : "#34C759",
+          "title" : "Login screen enhancements",
+          "description" : "Improved the PIN code view and added an analog clock to the login screen.",
+          "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature2.png"
         },
         {
-          "type": "feature",
-          "icon": "percent",
-          "iconColor": "#007AFF",
-          "title": "Tax settings redesign",
-          "description": "Redesigned the tax settings screen, now accessible as a shortcut from the product creation screen.",
-          "gifURL": "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature1.gif"
+          "type" : "feature",
+          "icon" : "percent",
+          "iconColor" : "#007AFF",
+          "title" : "Tax settings redesign",
+          "description" : "Redesigned the tax settings screen, now accessible as a shortcut from the product creation screen.",
+          "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature1.gif"
         },
         {
-          "type": "feature",
-          "icon": "sparkles",
-          "iconColor": "#007AFF",
-          "title": "Liquid Glass integration",
-          "description": "Integrated the new Liquid Glass effect into several parts of the app.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "sparkles",
+          "iconColor" : "#007AFF",
+          "title" : "Liquid Glass integration",
+          "description" : "Integrated the new Liquid Glass effect into several parts of the app.",
+          "gifURL" : null
         }
       ]
     },
     {
-      "version": "0.0.3",
-      "date": "2025-09-05",
-      "items": [
+      "version" : "0.0.3",
+      "date" : "2025-09-05",
+      "items" : [
         {
-          "type": "feature",
-          "icon": "circle.grid.3x3",
-          "iconColor": "#5856D6",
-          "title": "PIN code screen",
-          "description": "Enhanced the design and usability of the PIN code screen.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "circle.grid.3x3",
+          "iconColor" : "#5856D6",
+          "title" : "PIN code screen",
+          "description" : "Enhanced the design and usability of the PIN code screen.",
+          "gifURL" : null
         },
         {
-          "type": "bugFix",
-          "icon": "person.badge.key",
-          "iconColor": "#FF3B30",
-          "title": "User role name input",
-          "description": "Fixed the issue preventing letters from being entered in the name field when adding a user role.",
-          "gifURL": null
+          "type" : "bugFix",
+          "icon" : "person.badge.key",
+          "iconColor" : "#FF3B30",
+          "title" : "User role name input",
+          "description" : "Fixed the issue preventing letters from being entered in the name field when adding a user role.",
+          "gifURL" : null
         }
       ]
     },
     {
-      "version": "0.0.2",
-      "date": "2025-09-04",
-      "items": [
+      "version" : "0.0.2",
+      "date" : "2025-09-04",
+      "items" : [
         {
-          "type": "bugFix",
-          "icon": "arrow.up.arrow.down",
-          "iconColor": "#FF3B30",
-          "title": "Product & group ordering",
-          "description": "Fixed issues with product and group ordering.",
-          "gifURL": null
+          "type" : "bugFix",
+          "icon" : "arrow.up.arrow.down",
+          "iconColor" : "#FF3B30",
+          "title" : "Product & group ordering",
+          "description" : "Fixed issues with product and group ordering.",
+          "gifURL" : null
         },
         {
-          "type": "bugFix",
-          "icon": "arrow.clockwise",
-          "iconColor": "#FF3B30",
-          "title": "UI refresh after edits",
-          "description": "Fixed the issue where the UI didn’t update after editing products and groups.",
-          "gifURL": null
+          "type" : "bugFix",
+          "icon" : "arrow.clockwise",
+          "iconColor" : "#FF3B30",
+          "title" : "UI refresh after edits",
+          "description" : "Fixed the issue where the UI didn’t update after editing products and groups.",
+          "gifURL" : null
         },
         {
-          "type": "feature",
-          "icon": "clock",
-          "iconColor": "#007AFF",
-          "title": "Analog clock on sign-in",
-          "description": "Added an analog clock to the sign-in screen.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "clock",
+          "iconColor" : "#007AFF",
+          "title" : "Analog clock on sign-in",
+          "description" : "Added an analog clock to the sign-in screen.",
+          "gifURL" : null
         },
         {
-          "type": "bugFix",
-          "icon": "globe",
-          "iconColor": "#FF3B30",
-          "title": "Translation improvements",
-          "description": "Improved the accuracy and quality of language translations.",
-          "gifURL": null
+          "type" : "bugFix",
+          "icon" : "globe",
+          "iconColor" : "#FF3B30",
+          "title" : "Translation improvements",
+          "description" : "Improved the accuracy and quality of language translations.",
+          "gifURL" : null
         }
       ]
     },
     {
-      "version": "0.0.1",
-      "date": "2025-09-01",
-      "items": [
+      "version" : "0.0.1",
+      "date" : "2025-09-01",
+      "items" : [
         {
-          "type": "feature",
-          "icon": "star.fill",
-          "iconColor": "#007AFF",
-          "iconBackgroundColor": "#CCE4FF",
-          "title": "German TSE integration",
-          "description": "Added full support for SIGN-DE fiscalization.",
-          "gifURL": null
+          "type" : "feature",
+          "icon" : "star.fill",
+          "iconColor" : "#007AFF",
+          "iconBackgroundColor" : "#CCE4FF",
+          "title" : "German TSE integration",
+          "description" : "Added full support for SIGN-DE fiscalization.",
+          "gifURL" : null
         },
         {
-          "type": "bugFix",
-          "icon": "wrench.fill",
-          "iconColor": "#FF3B30",
-          "title": "TicketBAI signature validation",
-          "description": "Fixed chaining error when validating signed XML.",
-          "gifURL": null
+          "type" : "bugFix",
+          "icon" : "wrench.fill",
+          "iconColor" : "#FF3B30",
+          "title" : "TicketBAI signature validation",
+          "description" : "Fixed chaining error when validating signed XML.",
+          "gifURL" : null
         }
       ]
     }

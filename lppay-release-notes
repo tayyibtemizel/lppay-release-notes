@@ -43,6 +43,54 @@
           "title" : "Pager numbers",
           "description" : "Assign a pager number when the sale starts. It prints on the receipt and the kitchen ticket, and the queue board shows who is still waiting.",
           "gifURL" : null
+        },
+        {
+          "type" : "bugFix",
+          "icon" : "checkmark.shield.fill",
+          "iconColor" : "#FF3B30",
+          "title" : "License no longer lost after an update",
+          "description" : "A failed license check no longer clears your license and saved credentials, so the till keeps working after an update.",
+          "gifURL" : null
+        },
+        {
+          "type" : "bugFix",
+          "icon" : "globe",
+          "iconColor" : "#FF3B30",
+          "title" : "Country stays as you set it",
+          "description" : "The license service can no longer overwrite the country you chose during setup, which decides your tax and fiscal rules.",
+          "gifURL" : null
+        },
+        {
+          "type" : "bugFix",
+          "icon" : "chart.bar.fill",
+          "iconColor" : "#FF3B30",
+          "title" : "Employee report payment totals",
+          "description" : "Employee reports showed 0 for cash, card and QR. The payment cards now count every receipt in the period.",
+          "gifURL" : null
+        },
+        {
+          "type" : "bugFix",
+          "icon" : "printer.fill",
+          "iconColor" : "#FF3B30",
+          "title" : "Epson RT cashier attribution",
+          "description" : "Italy: receipts and the Z/X reports on Epson RT are filed under the cashier who rang them up, not operator 1.",
+          "gifURL" : null
+        },
+        {
+          "type" : "bugFix",
+          "icon" : "doc.text.fill",
+          "iconColor" : "#FF3B30",
+          "title" : "Credit note VAT rate",
+          "description" : "Credit notes now carry the VAT rate of the original sale, even when that rate has since been changed or removed.",
+          "gifURL" : null
+        },
+        {
+          "type" : "bugFix",
+          "icon" : "creditcard.fill",
+          "iconColor" : "#FF3B30",
+          "title" : "Adding a card terminal",
+          "description" : "A terminal that refuses the registration no longer aborts the whole flow, so a card terminal can still be added.",
+          "gifURL" : null
         }
       ]
     },

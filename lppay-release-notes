@@ -15,12 +15,12 @@
             {
               "title" : "Turn it on",
               "description" : "Settings → Sale → Tips",
-              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature1.gif"
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/tips-enable.gif"
             },
             {
               "title" : "Take a tip",
               "description" : "Tap Tip on the payment screen, then enter an amount or pick a percentage.",
-              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature2.png"
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/tips-use.gif"
             },
             {
               "title" : "Read it back",

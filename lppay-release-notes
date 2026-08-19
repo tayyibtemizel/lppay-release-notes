@@ -10,7 +10,24 @@
           "iconColor" : "#34C759",
           "title" : "Tips",
           "description" : "Add a tip by amount, target total, or a quick percentage. Tips show on the receipt and the reports, and card tips are taken on the ZVT terminal.",
-          "gifURL" : null
+          "gifURL" : null,
+          "steps" : [
+            {
+              "title" : "Turn it on",
+              "description" : "Settings → Sale → Tips",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature1.gif"
+            },
+            {
+              "title" : "Take a tip",
+              "description" : "Tap Tip on the payment screen, then enter an amount or pick a percentage.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/feature2.png"
+            },
+            {
+              "title" : "Read it back",
+              "description" : "The tip shows on the receipt, the X/Z report and the employee reports.",
+              "gifURL" : null
+            }
+          ]
         },
         {
           "type" : "feature",

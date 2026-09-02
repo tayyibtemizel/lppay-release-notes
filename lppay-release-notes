@@ -35,7 +35,29 @@
           "iconColor" : "#AF52DE",
           "title" : "Gift vouchers",
           "description" : "Sell vouchers on the sales screen and redeem them at payment by scanning the QR on the card. Partial redemptions print the remaining balance. Germany only.",
-          "gifURL" : null
+          "gifURL" : null,
+          "steps" : [
+            {
+              "title" : "Turn it on",
+              "description" : "Settings → Sale → Vouchers",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/voucher-activation.gif"
+            },
+            {
+              "title" : "Sell one",
+              "description" : "Tap Vouchers on the bottom bar, set the amount, and take payment as usual.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/voucher-sale.gif"
+            },
+            {
+              "title" : "Redeem it",
+              "description" : "On the payment screen, scan the QR on the card or type the code. Part of a voucher can cover part of the bill.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/voucher-redeem.gif"
+            },
+            {
+              "title" : "Track them",
+              "description" : "The Vouchers screen in the menu lists every voucher with its balance, filtered by active, consumed, expired or cancelled.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/voucher-list.gif"
+            }
+          ]
         },
         {
           "type" : "feature",

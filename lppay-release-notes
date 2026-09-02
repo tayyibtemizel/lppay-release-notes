@@ -65,7 +65,29 @@
           "iconColor" : "#30B0C7",
           "title" : "Bottle deposits",
           "description" : "Attach deposit types to products so Pfand is charged automatically, or add one with the stepper. The Z report lists Pfand and Leergut separately.",
-          "gifURL" : null
+          "gifURL" : null,
+          "steps" : [
+            {
+              "title" : "Turn it on",
+              "description" : "Settings → Sale → Deposits, then create a deposit type with its own price and tax rate.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/deposit-activation.gif"
+            },
+            {
+              "title" : "Attach it to a product",
+              "description" : "Open the product and switch on the deposit it carries. Bottles, crates and cups can each have their own.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/deposit-adding.gif"
+            },
+            {
+              "title" : "Sell it",
+              "description" : "The deposit is added on its own line as soon as the product goes in the cart, and counts towards the total.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/deposit-sale.gif"
+            },
+            {
+              "title" : "Take the empties back",
+              "description" : "Tap Deposit on the bottom bar and step the quantity down. The line goes negative and the customer is paid out.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/deposit-return.gif"
+            }
+          ]
         },
         {
           "type" : "feature",
@@ -73,7 +95,19 @@
           "iconColor" : "#007AFF",
           "title" : "Foreign currency cash",
           "description" : "Accept cash in a foreign currency at your own rate. The payment screen converts as you type and works out the change in your base currency.",
-          "gifURL" : null
+          "gifURL" : null,
+          "steps" : [
+            {
+              "title" : "Turn it on",
+              "description" : "Settings → Sale → Currencies, then add each currency you take and set its rate.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/currency-enable.gif"
+            },
+            {
+              "title" : "Take the cash",
+              "description" : "On the payment screen, tap the currency chip and enter what the customer hands over. The change comes back in your own currency.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/currency-use.gif"
+            }
+          ]
         },
         {
           "type" : "feature",
@@ -81,7 +115,24 @@
           "iconColor" : "#5856D6",
           "title" : "Pager numbers",
           "description" : "Assign a pager number when the sale starts. It prints on the receipt and the kitchen ticket, and the queue board shows who is still waiting.",
-          "gifURL" : null
+          "gifURL" : null,
+          "steps" : [
+            {
+              "title" : "Turn it on",
+              "description" : "Settings → Sale → Pager numbers. Set how many pagers you have, and whether the picker shows a keypad.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/pager-activation.gif"
+            },
+            {
+              "title" : "Hand one over",
+              "description" : "The picker opens when the sale starts. Pick a free number, or tap No pager to skip it.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/pager-sale.gif"
+            },
+            {
+              "title" : "Clear it when served",
+              "description" : "The Pager Board lists everyone still waiting. Mark a guest delivered and the number frees up.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/pager-deliver.gif"
+            }
+          ]
         },
         {
           "type" : "feature",

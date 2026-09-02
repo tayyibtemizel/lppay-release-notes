@@ -140,7 +140,7 @@
           "iconColor" : "#FF9F0A",
           "title" : "Arrange the bottom bar",
           "description" : "Choose which buttons sit on the bottom bar and drag them into the order you want. Hidden ones stay reachable from the menu.",
-          "gifURL" : null
+          "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/bottombar-arrange.gif"
         },
         {
           "type" : "bugFix",

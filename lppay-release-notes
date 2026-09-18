@@ -1,8 +1,8 @@
 {
   "releases" : [
     {
-      "version" : "1.0.13",
-      "date" : "2026-08-17",
+      "version" : "1.1.0",
+      "date" : "2026-09-18",
       "items" : [
         {
           "type" : "feature",
@@ -141,6 +141,22 @@
           "title" : "Arrange the bottom bar",
           "description" : "Choose which buttons sit on the bottom bar and drag them into the order you want. Hidden ones stay reachable from the menu.",
           "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/bottombar-arrange.gif"
+        },
+        {
+          "type" : "feature",
+          "icon" : "tablecells",
+          "iconColor" : "#5AC8FA",
+          "title" : "Import products from a spreadsheet",
+          "description" : "Download a template, fill it in with Excel or Numbers, then upload it from your computer's browser. Undo the last import in one tap.",
+          "gifURL" : null
+        },
+        {
+          "type" : "feature",
+          "icon" : "chart.xyaxis.line",
+          "iconColor" : "#FF2D55",
+          "title" : "Redesigned sales report",
+          "description" : "Three views in one report: a summary, categories and products, and time analysis. The emailed PDF now carries the same figures.",
+          "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/1.1.0_sales_report.png"
         },
         {
           "type" : "bugFix",

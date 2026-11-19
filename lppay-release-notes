@@ -1,6 +1,52 @@
 {
   "releases" : [
     {
+      "version" : "1.1.4",
+      "date" : "2026-11-19",
+      "items" : [
+        {
+          "type" : "feature",
+          "icon" : "creditcard.fill",
+          "iconColor" : "#007AFF",
+          "title" : "Dojo card terminals",
+          "description" : "Take card payments and refunds on a Dojo terminal. If the till is interrupted mid-payment, it checks the result with Dojo when it comes back.",
+          "gifURL" : null,
+          "steps" : [
+            {
+              "title" : "Turn it on",
+              "description" : "Settings → Card Devices → Dojo. Enter your Dojo API key, then tap Fetch terminals and switch on your terminal.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/dojo-settings.gif"
+            },
+            {
+              "title" : "Take a payment",
+              "description" : "Tap Card on the payment screen and the amount goes to the terminal.",
+              "gifURL" : null
+            }
+          ]
+        },
+        {
+          "type" : "feature",
+          "icon" : "archivebox.fill",
+          "iconColor" : "#FF9F0A",
+          "title" : "DSFinV-K export",
+          "description" : "Germany: create the DSFinV-K export for a tax audit straight from the till, by date or by Z number. Exports are kept on the iPad so you can share them again.",
+          "gifURL" : null,
+          "steps" : [
+            {
+              "title" : "Create one",
+              "description" : "Settings → TSE → DSFinV-K Export. Pick a date range or a Z number range and check the preview.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/dsfinvk-create.gif"
+            },
+            {
+              "title" : "Share it",
+              "description" : "Saved exports lists every file. Tap one to share it with your tax adviser.",
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/dsfinvk-share.gif"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "version" : "1.1.2",
       "date" : "2026-10-08",
       "items" : [

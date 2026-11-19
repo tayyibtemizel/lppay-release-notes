@@ -72,7 +72,7 @@
           "iconColor" : "#5856D6",
           "title" : "Refreshed menu and bottom bar",
           "description" : "Clearer icons, a short description under each menu tile, and a wider menu panel.",
-          "gifURL" : null
+          "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/menu-refresh.gif"
         },
         {
           "type" : "feature",
@@ -181,7 +181,7 @@
             {
               "title" : "Read it back",
               "description" : "The tip shows on the receipt, the X/Z report and the employee reports.",
-              "gifURL" : null
+              "gifURL" : "https://raw.githubusercontent.com/tayyibtemizel/lppay-release-notes/refs/heads/main/images/tips-receipt.gif"
             }
           ]
         },
